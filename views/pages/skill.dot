@@ -17,18 +17,18 @@
         <i class="fab fa-angular"></i>
       </li>
       <li class="list-inline-item">
-        <i class="fab fa-react"></i>
+        <i class="fa fa-mobile"></i>
       </li>
       <li class="list-inline-item">
         <i class="fab fa-node-js"></i>
       </li>
-      <li class="list-inline-item">
+      <!-- <li class="list-inline-item">
         <i class="fab fa-sass"></i>
       </li>
       <li class="list-inline-item">
         <i class="fab fa-less"></i>
-      </li>
-      <li class="list-inline-item">
+      </li> -->
+      <!-- <li class="list-inline-item">
         <i class="fab fa-wordpress"></i>
       </li>
       <li class="list-inline-item">
@@ -36,26 +36,35 @@
       </li>
       <li class="list-inline-item">
         <i class="fab fa-grunt"></i>
-      </li>
+      </li> -->
       <li class="list-inline-item">
         <i class="fab fa-npm"></i>
       </li>
     </ul>
 
-    <div class="subheading mb-3">Workflow</div>
+    <div class="subheading mb-3">Javascript Frameworks</div>
     <ul class="fa-ul mb-0">
       <li>
         <i class="fa-li fa fa-check"></i>
-        Mobile-First, Responsive Design</li>
+        jQuery</li>
       <li>
         <i class="fa-li fa fa-check"></i>
-        Cross Browser Testing &amp; Debugging</li>
+        Angular JS</li>
       <li>
         <i class="fa-li fa fa-check"></i>
-        Cross Functional Teams</li>
+        Ionic: Hybrid mobile application development</li>
       <li>
         <i class="fa-li fa fa-check"></i>
-        Agile Development &amp; Scrum</li>
+        Cordova</li>
+      <li>
+        <i class="fa-li fa fa-check"></i>
+        Angular 2/5/7/8</li>
+      <li>
+        <i class="fa-li fa fa-check"></i>
+        Node JS</li>
+      <li>
+        <i class="fa-li fa fa-check"></i>
+        Electron</li>
     </ul>
   </div>
 </section>

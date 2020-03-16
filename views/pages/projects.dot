@@ -1,0 +1,119 @@
+<section class="resume-section p-3 p-lg-5 d-flex flex-column" id="projects">
+  <div class="my-auto">
+    <h2 class="mb-5">Projects</h2>
+    
+    <div class="resume-item d-flex flex-column flex-md-row">
+      <div class="resume-content mr-auto">
+        <h3 class="mb-0">Docter Property</h3>
+        <div class="subheading mb-3">Angular 7</div>
+        <p>A porperty sharing web application(like 99 acers) covers all panels: Seller, User as well as Admin.
+        </p>
+      </div>
+      <div class="resume-date text-md-right">
+        <span class="text-primary">Fluper Ltd.</span>
+      </div>
+    </div>
+
+    <div class="resume-item d-flex flex-column flex-md-row">
+      <div class="resume-content mr-auto">
+        <h3 class="mb-0">Duka Direct</h3>
+        <div class="subheading mb-3">Angular 7</div>
+        <p>A multiple vendor web application where a vendor can sell products, manage inventory & manage product future requirements.
+        </p>
+      </div>
+      <div class="resume-date text-md-right">
+        <span class="text-primary">Fluper Ltd.</span>
+      </div>
+    </div>
+
+    <div class="resume-item d-flex flex-column flex-md-row">
+      <div class="resume-content mr-auto">
+        <h3 class="mb-0">Makani</h3>
+        <div class="subheading mb-3">Angular 7/Node JS</div>
+        <p>A Food delivery web application(like swiggy) covers all panels: User, Driver, Kitchen as well as Admin.
+        </p>
+      </div>
+      <div class="resume-date text-md-right">
+        <span class="text-primary">Fluper Ltd.</span>
+      </div>
+    </div>
+    
+    <div class="resume-item d-flex flex-column flex-md-row">
+      <div class="resume-content mr-auto">
+        <h3 class="mb-0">IIRIS Application</h3>
+        <div class="subheading mb-3">Ionic framework 3 (Angular 5, Typescript, ES6)</div>
+        <p>Application for School security management.(https://play.google.com/store/apps/details?id=io.ionic.iirissafety)</p>
+      </div>
+      <div class="resume-date text-md-right">
+        <span class="text-primary">Mindz Technologies</span>
+      </div>
+    </div>
+
+    <div class="resume-item d-flex flex-column flex-md-row">
+      <div class="resume-content mr-auto">
+        <h3 class="mb-0">mTrack Application</h3>
+        <div class="subheading mb-3">Ionic framework 3 (Angular 5, Typescript, ES6)</div>
+        <p>Create the application for sale team which are livetracked by the sale team lead. App has functionality for live tracking, punch in/out, follow ups etc.</p>
+      </div>
+      <div class="resume-date text-md-right">
+        <span class="text-primary">Mindz Technologies</span>
+      </div>
+    </div>
+
+    <div class="resume-item d-flex flex-column flex-md-row">
+      <div class="resume-content mr-auto">
+        <h3 class="mb-0">Video Tailor</h3>
+        <div class="subheading mb-3">Ionic 1, angularJS, Cordova</div>
+        <p>Create the application for freelance the videographer, photographer, model etc, for wedding or pre-wedding shoot. App is develop for the user(that book the event) as well as the partner(that bid on that event).</p>
+      </div>
+      <div class="resume-date text-md-right">
+        <span class="text-primary">Mindz Technologies</span>
+      </div>
+    </div>
+
+    <div class="resume-item d-flex flex-column flex-md-row">
+      <div class="resume-content mr-auto">
+        <h3 class="mb-0">GizmoLife(IoT) Application</h3>
+        <div class="subheading mb-3">Cordova (jQuery Mobile, jQuery, HTML, CSS)</div>
+        <p>Create the application which control the hardware devices. Backend developer use the PHP to create the webservices and we call those webservices to control the hardware devices like sensors, alarm etc.</p>
+      </div>
+      <div class="resume-date text-md-right">
+        <span class="text-primary">Kochar Tech Pvt. Ltd.</span>
+      </div>
+    </div>
+
+    <div class="resume-item d-flex flex-column flex-md-row">
+      <div class="resume-content mr-auto">
+        <h3 class="mb-0">Aircel Backup & Restore</h3>
+        <div class="subheading mb-3">Cordova (jQuery Mobile, jQuery, HTML, CSS)</div>
+        <p>Create the application for Aircel that stores mobile data (like contacts,images, messages & document) to the Amazon web services. And restore backuped data into any phone after login to app. This application has addition feature to take automatic backup accoding to saved settings by user.</p>
+      </div>
+      <div class="resume-date text-md-right">
+        <span class="text-primary">Kochar Tech Pvt. Ltd.</span>
+      </div>
+    </div>
+
+    <div class="resume-item d-flex flex-column flex-md-row">
+      <div class="resume-content mr-auto">
+        <h3 class="mb-0">Alumni Database</h3>
+        <div class="subheading mb-3">Drupal 7 CMS (CRM Core Module)</div>
+        <p>Create a ERP to record the details of IIT kanpur alumni. Records contains the details of alumni passing year, donation details, contact details etc. By using these details we send the emails and contact the IITK alumni. And represent these details on graphs.</p>
+      </div>
+      <div class="resume-date text-md-right">
+        <span class="text-primary">Robust Results Pvt. Ltd. - SIDBI</span>
+      </div>
+    </div>
+
+    <div class="resume-item d-flex flex-column flex-md-row">
+      <div class="resume-content mr-auto">
+        <h3 class="mb-0">SIDBI Patent software</h3>
+        <div class="subheading mb-3">Drupal 7 CMS (Erpal Contribution)</div>
+        <p>Create a web application for registrying an invention by the student or professor. This web application follow some workflow to convert registred invention into a patent. All the paper work of patent officer is done by SIDBI  patent software. Create a custom module to login via a server.</p>
+      </div>
+      <div class="resume-date text-md-right">
+        <span class="text-primary">Robust Results Pvt. Ltd. - SIDBI</span>
+      </div>
+    </div>
+
+  </div>
+</section>

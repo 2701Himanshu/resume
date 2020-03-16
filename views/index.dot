@@ -8,7 +8,7 @@ title: Index Page
 
 	[[= partial('pages/experience.dot')]]
 
-	[[= partial('pages/education.dot')]]
+	[[= partial('pages/projects.dot')]]
 
 	[[= partial('pages/education.dot')]]
 
